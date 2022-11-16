@@ -1,5 +1,5 @@
 {
-  "name": "api-productos",
+  "name": "api-no-rest-con-chat",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,18 +8,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/asandovala21/API_Restful_productos.git"
+    "url": "git+https://github.com/asandovala21/API-No-Rest.git"
   },
-  "author": "Andrea S",
+  "keywords": [],
+  "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/asandovala21/API_Restful_productos/issues"
+    "url": "https://github.com/asandovala21/API-No-Rest/issues"
   },
-  "homepage": "https://github.com/asandovala21/API_Restful_productos#readme",
+  "homepage": "https://github.com/asandovala21/API-No-Rest#readme",
   "dependencies": {
     "express": "^4.18.2",
-    "express-handlebars": "^6.0.6",
-    "fs": "^0.0.1-security",
-    "path": "^0.12.7"
+    "socket.io": "^4.5.3"
   }
 }
